@@ -32,7 +32,7 @@ If it doesn't start at #1 again, or ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-/Users/student
+/Users/student/mtec1002
 
 ==========
 5. Type:
@@ -99,7 +99,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-v314-ent-006:quz student$ 
+/Users/student/mtec1002/foo/bar
 
 ==========
 9. Type:
@@ -120,7 +120,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-v314-ent-006:quz student$ 
+/Users/student/mtec1002/foo/bar/bas/que
 
  
 ==========
@@ -205,7 +205,7 @@ v314-ent-006.local
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-cd ~
+pwd
 
 ==========
 17b. If you're not in the right directory, type the following command:
@@ -276,7 +276,7 @@ What command did you use?
 24. What command is used to delete empty directories?
 ----------
 
-dmkdir
+rmdir
 
 ==========
 25. What command is used to print out your current working directory?
@@ -288,7 +288,7 @@ pwd
 26. What flag do I pass to ls to print out all files?
 ----------
 
--al
+~
 
 ==========
 27. What's the shortcut for home directory?
