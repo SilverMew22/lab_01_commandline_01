@@ -98,8 +98,7 @@ $ ls /Vol<TAB><ENTER>
 
 What is the result of pressing tab?
 ----------
-
-
+Macintosh HD		Share 2 Read-Write
 
 ==========
 8.  Type:
@@ -121,7 +120,7 @@ Copy and paste the output below.
 10.  Name two flags that we used in this exercise.
 ----------
 
-ls 
+-ls 
 -a
 
 ==========
@@ -140,7 +139,7 @@ ls
 13.  Name one argument that we passed to the command.
 ----------
 
--a
+Desktop
 
 ==========
 14.  Type:
